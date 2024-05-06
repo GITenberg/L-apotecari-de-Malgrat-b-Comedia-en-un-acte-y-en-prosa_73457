@@ -1,0 +1,34 @@
+_repo: L-apotecari-de-Malgrat-b-Comedia-en-un-acte-y-en-prosa_73457
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baró, Teodoro
+    aliases:
+    - Baro, Teodoro
+    - Baró, Teodor
+    birthdate: 1842
+    deathdate: 1916
+    gutenberg_agent_id: '50935'
+    url: http://www.gutenberg.org/2009/agents/50935
+    wikipedia: https://es.wikipedia.org/wiki/Teodoro_Bar%C3%B3_y_Sureda
+description: ''
+gutenberg_issued: '2024-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73457'
+language: ca
+pgterms:marc905: 20240421234620bar
+pgterms:marc906: '1900'
+pgterms:marc907: ES
+production_note: 'editor digital: Joan Queralt Gil'
+publication_note: '  $aBarcelona :$bFrancisco Badia, impresor, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcsh 'Catalan drama'
+- !lcc 'PC'
+- GITenberg
+title: 'L''apotecari de Malgrat : $b Comedia en un acte y en prosa'
+url: http://www.gutenberg.org/ebooks/73457
