@@ -1,5 +1,8 @@
 _repo: L-apotecari-de-Malgrat-b-Comedia-en-un-acte-y-en-prosa_73457
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73457-h/images/cover.jpg
 creator:
   author:
     agent_name: Baró, Teodoro
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50935
     wikipedia: https://es.wikipedia.org/wiki/Teodoro_Bar%C3%B3_y_Sureda
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73457#L-apotecari-de-Malgrat-b-Comedia-en-un-acte-y-en-prosa
 gutenberg_issued: '2024-04-24'
 gutenberg_type: Text
 identifiers:
